@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-bar-chart/static/css/main.73fe24ea.chunk.css",
+    "main.js": "/fcc-bar-chart/static/js/main.b98c06a5.chunk.js",
+    "main.js.map": "/fcc-bar-chart/static/js/main.b98c06a5.chunk.js.map",
+    "runtime-main.js": "/fcc-bar-chart/static/js/runtime-main.bf21e64b.js",
+    "runtime-main.js.map": "/fcc-bar-chart/static/js/runtime-main.bf21e64b.js.map",
+    "static/js/2.a676ab54.chunk.js": "/fcc-bar-chart/static/js/2.a676ab54.chunk.js",
+    "static/js/2.a676ab54.chunk.js.map": "/fcc-bar-chart/static/js/2.a676ab54.chunk.js.map",
+    "index.html": "/fcc-bar-chart/index.html",
+    "precache-manifest.961cbacb96aee9d3bf97f5457d70e7d4.js": "/fcc-bar-chart/precache-manifest.961cbacb96aee9d3bf97f5457d70e7d4.js",
+    "service-worker.js": "/fcc-bar-chart/service-worker.js",
+    "static/css/main.73fe24ea.chunk.css.map": "/fcc-bar-chart/static/css/main.73fe24ea.chunk.css.map",
+    "static/js/2.a676ab54.chunk.js.LICENSE.txt": "/fcc-bar-chart/static/js/2.a676ab54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf21e64b.js",
+    "static/js/2.a676ab54.chunk.js",
+    "static/css/main.73fe24ea.chunk.css",
+    "static/js/main.b98c06a5.chunk.js"
+  ]
+}
