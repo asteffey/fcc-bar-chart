@@ -1,5 +1,5 @@
 import d3 from '../../d3-plus';
-import dateFormat from 'dateformat';
+import moment from 'moment';
 
 const gdpDataUrl = 'https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json';
 
@@ -75,7 +75,7 @@ const d3GdpChart = (svg, svgWidth, svgHeight) => {
             ])
             .attr('id', 'tooltip')
             .attr('data-date', ({ dateString }) => dateString)
-            .html(({ gdp, date }) => `${dateFormat(date, 'mmm yyyy')}<br/>${formatter.format(gdp)} Billion`);
+            .html(({ gdp, date }) => `${moment(date).format('MMM YYYY')}<br/>${formatter.format(gdp)} Billion`);
         svg.call(tip);
 
         svg.appendForEach('rect', data)
