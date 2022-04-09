@@ -7,7 +7,7 @@
     "@asteffey/react-fcc-test": "^1.0.8",
     "d3": "^5.15.0",
     "d3-tip": "https://github.com/asteffey/d3-tip#attr-style-func",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
